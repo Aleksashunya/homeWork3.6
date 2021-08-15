@@ -7,19 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A66EF0526C92F9300E657E5 /* AnswersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A66EF0426C92F9300E657E5 /* AnswersView.swift */; };
+		7A66EF0826C9646100E657E5 /* AFiewCars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A66EF0726C9646100E657E5 /* AFiewCars.swift */; };
 		7A7DAFF526C770E300ACF075 /* homeWork3_6App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7DAFF426C770E300ACF075 /* homeWork3_6App.swift */; };
 		7A7DAFF726C770E300ACF075 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7DAFF626C770E300ACF075 /* ContentView.swift */; };
 		7A7DAFF926C770E600ACF075 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A7DAFF826C770E600ACF075 /* Assets.xcassets */; };
 		7A7DAFFC26C770E600ACF075 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A7DAFFB26C770E600ACF075 /* Preview Assets.xcassets */; };
+		7A7DB00426C7727700ACF075 /* RoadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7DB00326C7727700ACF075 /* RoadView.swift */; };
+		7A7DB00826C88A4900ACF075 /* MainCarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7DB00726C88A4900ACF075 /* MainCarView.swift */; };
+		7A7DB00A26C8EBF600ACF075 /* OneCarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7DB00926C8EBF600ACF075 /* OneCarView.swift */; };
+		7A7DB00C26C8FD0800ACF075 /* TreeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7DB00B26C8FD0800ACF075 /* TreeView.swift */; };
+		7A7DB00E26C90EED00ACF075 /* RoadGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7DB00D26C90EED00ACF075 /* RoadGameView.swift */; };
+		7A7DB01026C90F3200ACF075 /* LotteryGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7DB00F26C90F3200ACF075 /* LotteryGameView.swift */; };
+		7A7DB01226C9120500ACF075 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7DB01126C9120500ACF075 /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7A66EF0426C92F9300E657E5 /* AnswersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswersView.swift; sourceTree = "<group>"; };
+		7A66EF0726C9646100E657E5 /* AFiewCars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFiewCars.swift; sourceTree = "<group>"; };
 		7A7DAFF126C770E300ACF075 /* homeWork3.6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = homeWork3.6.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A7DAFF426C770E300ACF075 /* homeWork3_6App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homeWork3_6App.swift; sourceTree = "<group>"; };
 		7A7DAFF626C770E300ACF075 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7A7DAFF826C770E600ACF075 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A7DAFFB26C770E600ACF075 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7A7DAFFD26C770E600ACF075 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A7DB00326C7727700ACF075 /* RoadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoadView.swift; sourceTree = "<group>"; };
+		7A7DB00726C88A4900ACF075 /* MainCarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCarView.swift; sourceTree = "<group>"; };
+		7A7DB00926C8EBF600ACF075 /* OneCarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OneCarView.swift; sourceTree = "<group>"; };
+		7A7DB00B26C8FD0800ACF075 /* TreeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeView.swift; sourceTree = "<group>"; };
+		7A7DB00D26C90EED00ACF075 /* RoadGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoadGameView.swift; sourceTree = "<group>"; };
+		7A7DB00F26C90F3200ACF075 /* LotteryGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LotteryGameView.swift; sourceTree = "<group>"; };
+		7A7DB01126C9120500ACF075 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +51,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7A66EF0926C966D700E657E5 /* TabViews */ = {
+			isa = PBXGroup;
+			children = (
+				7A7DAFF626C770E300ACF075 /* ContentView.swift */,
+				7A7DB00D26C90EED00ACF075 /* RoadGameView.swift */,
+				7A7DB00F26C90F3200ACF075 /* LotteryGameView.swift */,
+			);
+			path = TabViews;
+			sourceTree = "<group>";
+		};
+		7A66EF0A26C966EC00E657E5 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				7A7DB00726C88A4900ACF075 /* MainCarView.swift */,
+				7A7DB00326C7727700ACF075 /* RoadView.swift */,
+				7A7DB00926C8EBF600ACF075 /* OneCarView.swift */,
+				7A7DB00B26C8FD0800ACF075 /* TreeView.swift */,
+				7A66EF0726C9646100E657E5 /* AFiewCars.swift */,
+				7A7DB01126C9120500ACF075 /* CircleView.swift */,
+				7A66EF0426C92F9300E657E5 /* AnswersView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		7A7DAFE826C770E300ACF075 = {
 			isa = PBXGroup;
 			children = (
@@ -52,8 +94,9 @@
 		7A7DAFF326C770E300ACF075 /* homeWork3.6 */ = {
 			isa = PBXGroup;
 			children = (
+				7A66EF0926C966D700E657E5 /* TabViews */,
+				7A66EF0A26C966EC00E657E5 /* Views */,
 				7A7DAFF426C770E300ACF075 /* homeWork3_6App.swift */,
-				7A7DAFF626C770E300ACF075 /* ContentView.swift */,
 				7A7DAFF826C770E600ACF075 /* Assets.xcassets */,
 				7A7DAFFD26C770E600ACF075 /* Info.plist */,
 				7A7DAFFA26C770E600ACF075 /* Preview Content */,
@@ -138,7 +181,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A7DB01226C9120500ACF075 /* CircleView.swift in Sources */,
+				7A7DB01026C90F3200ACF075 /* LotteryGameView.swift in Sources */,
+				7A7DB00826C88A4900ACF075 /* MainCarView.swift in Sources */,
 				7A7DAFF726C770E300ACF075 /* ContentView.swift in Sources */,
+				7A66EF0526C92F9300E657E5 /* AnswersView.swift in Sources */,
+				7A7DB00426C7727700ACF075 /* RoadView.swift in Sources */,
+				7A7DB00A26C8EBF600ACF075 /* OneCarView.swift in Sources */,
+				7A7DB00C26C8FD0800ACF075 /* TreeView.swift in Sources */,
+				7A66EF0826C9646100E657E5 /* AFiewCars.swift in Sources */,
+				7A7DB00E26C90EED00ACF075 /* RoadGameView.swift in Sources */,
 				7A7DAFF526C770E300ACF075 /* homeWork3_6App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
